@@ -2,7 +2,9 @@
 
 This a page with RuTaR dataset in 'rutar.xlsx' file and the sources used for RAG experiments in 'sources_dataset_for_rutar.json'.
 
+
 Columns description in 'rutar.xslx':
+
 'title' - name of the government document used for a question
 
 'date_publication' - publication date of this document
